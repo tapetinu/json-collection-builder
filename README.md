@@ -2,6 +2,8 @@
 
 This is my personal [Next.js](https://nextjs.org) project for generating a JSON of beatmaps data and its associated collections.
 
+🚧 <b><i>This project is still unfinished</i></b>
+
 ## Disclaimer
 
 Originally, I wanted this website to directly call the osu! API from the browser. Unfortunately, it's not possible due to problem with CORS header. Technically, I could just set a VPS to just redirect the call but I'm just lazy idk.
